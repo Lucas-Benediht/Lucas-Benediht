@@ -45,3 +45,5 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A3FF&height=120&section=footer"/>
 </p>
+
+![Snake animation](https://github.com/{{Lucas-Benediht}}/{{Lucas-Benediht}}/blob/output/github-contribution-grid-snake.svg)
