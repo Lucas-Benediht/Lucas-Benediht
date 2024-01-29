@@ -15,7 +15,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Benediht&bg_color=000000&color=0676e0&line=057ef0&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Let's get connected:
+### :v: Let's get connected:
 <div> 
   <a href="https://www.instagram.com/lucasbenediht/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23007ACC?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:lucasbenediht@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23007ACC?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
