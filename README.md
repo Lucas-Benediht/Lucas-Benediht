@@ -24,11 +24,17 @@ Londrina, Brazil · Software Developer Analyst at **Tata Consultancy Services (T
 
 ### About Me
 
-Software Engineer with hands-on experience across **enterprise back-end development** and **Robotic Process Automation (RPA)**, delivering scalable, high-volume solutions for major enterprise clients (including **Petrobras** and **Itaú** via TCS).
+Hi! I'm **Lucas Benediht** — most people online know me as **Benee**. I'm a Software Developer based in Londrina, Brazil, currently at **TCS**, where I work across both **Back-end (.NET / C# & Angular)** and **RPA** (Automation Anywhere A360, Power Automate, and Python). I enjoy turning complex workflows and legacy challenges into clean, reliable software.
 
-- **Back-end & Full-Stack:** Full lifecycle development of critical **.NET (C#)** applications (`.NET Framework 4.x` → `.NET 8/10`), **Angular**, REST APIs, and **SAP / Protheus** integrations.
-- **RPA & Intelligent Automation:** End-to-end bot engineering (Attended & Unattended), **Automation Anywhere A360 Control Room** administration, **Power Automate**, and **Python** (Selenium, BotCity) — including AI-assisted lift-and-shift migrations of 50+ bots and 10k+ case workflows.
-- **Engineering Standards:** Clean Code, SOLID, CI/CD pipelines (**GitHub Actions, Jenkins, GitLab**), Docker, and Agile delivery (Scrum & Kanban).
+```csharp
+public sealed class LucasBenediht // online as Benee
+{
+    public string Role => "Software Developer Analyst @ TCS";
+    public string[] CoreFocus => [".NET / C#", "Angular", "RPA (A360 · Power Automate · Python)"];
+    public string[] EnterpriseClients => ["Petrobras (E&P)", "Itaú"];
+    public string[] Highlights => ["50+ bots migrated with AI", "10k+ high-volume workflows", "Control Room Admin"];
+}
+```
 
 ---
 
