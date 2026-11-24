@@ -2,7 +2,11 @@
 
 # Lucas Benediht <sub>*(Benee)*</sub>
 
-**Software Engineer · Back-end (.NET & Angular) & RPA Developer**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=34&lines=Software+Engineer+%C2%B7+Back-end+(.NET+%26+Angular);RPA+Developer+%C2%B7+A360%2C+Power+Automate+%26+Python;Building+scalable+APIs+%26+enterprise+automations" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=0969DA&center=true&vCenter=true&width=640&height=34&lines=Software+Engineer+%C2%B7+Back-end+(.NET+%26+Angular);RPA+Developer+%C2%B7+A360%2C+Power+Automate+%26+Python;Building+scalable+APIs+%26+enterprise+automations" />
+  <img alt="Software Engineer · Back-end (.NET & Angular) & RPA Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=0969DA&center=true&vCenter=true&width=640&height=34&lines=Software+Engineer+%C2%B7+Back-end+(.NET+%26+Angular);RPA+Developer+%C2%B7+A360%2C+Power+Automate+%26+Python;Building+scalable+APIs+%26+enterprise+automations" />
+</picture>
 
 Londrina, Brazil · Software Developer Analyst at **Tata Consultancy Services (TCS)**
 
@@ -29,6 +33,16 @@ Software Engineer with hands-on experience across **enterprise back-end developm
 - **Back-end & Full-Stack:** Full lifecycle development of critical **.NET (C#)** applications (`.NET Framework 4.x` → `.NET 8/10`), **Angular**, REST APIs, and **SAP / Protheus** integrations.
 - **RPA & Intelligent Automation:** End-to-end bot engineering (Attended & Unattended), **Automation Anywhere A360 Control Room** administration, **Power Automate**, and **Python** (Selenium, BotCity) — including AI-assisted lift-and-shift migrations of 50+ bots and 10k+ case workflows.
 - **Engineering Standards:** Clean Code, SOLID, CI/CD pipelines (**GitHub Actions, Jenkins, GitLab**), Docker, and Agile delivery (Scrum & Kanban).
+
+```csharp
+public sealed class LucasBenediht // online as Benee
+{
+    public string Role => "Software Developer Analyst @ TCS";
+    public string[] CoreFocus => [".NET / C#", "Angular", "RPA (A360 · Power Automate · Python)"];
+    public string[] EnterpriseClients => ["Petrobras (E&P)", "Itaú"];
+    public string[] Highlights => ["50+ bots migrated with AI", "10k+ high-volume workflows", "Control Room Admin"];
+}
+```
 
 ---
 
@@ -99,5 +113,13 @@ Software Engineer with hands-on experience across **enterprise back-end developm
     </td>
   </tr>
 </table>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution City" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+</picture>
 
 </div>
