@@ -55,32 +55,60 @@ public sealed class LucasBenediht // online as Benee
 
 ### Tech Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Back-end & APIs** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-24292F?style=flat-square&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **RPA & Automation** | ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere_A360-FF5A10?style=flat-square&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![BotCity](https://img.shields.io/badge/BotCity-2B5B84?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![OutSystems](https://img.shields.io/badge/OutSystems-CC2200?style=flat-square&logoColor=white) |
-| **Frontend & Mobile** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Databases & Data** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,py,angular,ts,js,react,django,flask,java,postgres,mysql,mongodb,sqlite,docker,githubactions,jenkins,gitlab,git,azure&perline=10&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,dotnet,py,angular,ts,js,react,django,flask,java,postgres,mysql,mongodb,sqlite,docker,githubactions,jenkins,gitlab,git,azure&perline=10&theme=light" />
+  <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=cs,dotnet,py,angular,ts,js,react,django,flask,java,postgres,mysql,mongodb,sqlite,docker,githubactions,jenkins,gitlab,git,azure&perline=10&theme=light" />
+</picture>
+
+<br /><br />
+
+<sub>**RPA & Enterprise Tools**</sub>
+
+![Automation Anywhere A360](https://img.shields.io/badge/Automation_Anywhere_A360-FF5A10?style=flat&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![BotCity](https://img.shields.io/badge/BotCity-2B5B84?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![OutSystems](https://img.shields.io/badge/OutSystems-CC2200?style=flat&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
-### Contributions
+### Contributions & Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
-  <img alt="Monthly Contributions & Profile Summary" src="./profile-summary-card-output/github/0-profile-details.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lucas-Benediht&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lucas-Benediht&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-Benediht&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA" height="175" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Lucas-Benediht&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Lucas-Benediht&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Lucas-Benediht&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" height="175" />
 </picture>
 
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution City" src="./profile-3d-contrib/profile-green-animate.svg" width="78%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
+  <img alt="Monthly Contributions & Profile Summary" src="./profile-summary-card-output/github/0-profile-details.svg" width="92%" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Benediht&theme=github-dark&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true&radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Benediht&theme=github-compact&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true&radius=8" />
+  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Benediht&theme=github-compact&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true&radius=8" width="92%" />
 </picture>
 
 </div>
