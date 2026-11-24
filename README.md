@@ -28,11 +28,7 @@ Londrina, Brazil · Software Developer Analyst at **Tata Consultancy Services (T
 
 ### About Me
 
-Software Engineer with hands-on experience across **enterprise back-end development** and **Robotic Process Automation (RPA)**, delivering scalable, high-volume solutions for major enterprise clients (including **Petrobras** and **Itaú** via TCS).
-
-- **Back-end & Full-Stack:** Full lifecycle development of critical **.NET (C#)** applications (`.NET Framework 4.x` → `.NET 8/10`), **Angular**, REST APIs, and **SAP / Protheus** integrations.
-- **RPA & Intelligent Automation:** End-to-end bot engineering (Attended & Unattended), **Automation Anywhere A360 Control Room** administration, **Power Automate**, and **Python** (Selenium, BotCity) — including AI-assisted lift-and-shift migrations of 50+ bots and 10k+ case workflows.
-- **Engineering Standards:** Clean Code, SOLID, CI/CD pipelines (**GitHub Actions, Jenkins, GitLab**), Docker, and Agile delivery (Scrum & Kanban).
+Hi! I'm **Lucas Benediht** — most people online know me as **Benee**. I'm a Software Developer based in Londrina, Brazil, currently at **TCS**, where I work across both **Back-end (.NET / C# & Angular)** and **RPA** (Automation Anywhere A360, Power Automate, and Python). I enjoy turning complex workflows and legacy challenges into clean, reliable software.
 
 ```csharp
 public sealed class LucasBenediht // online as Benee
@@ -69,57 +65,22 @@ public sealed class LucasBenediht // online as Benee
 
 ---
 
-### Activity & Contribution Analytics
+### Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
-  <img alt="Monthly Contributions & Profile Summary" src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" />
+  <img alt="Monthly Contributions & Profile Summary" src="./profile-summary-card-output/github/0-profile-details.svg" width="90%" />
 </picture>
 
-<table>
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
-        <img alt="GitHub Stats" src="./profile-summary-card-output/github/3-stats.svg" width="100%" />
-      </picture>
-    </td>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg" />
-        <img alt="Productive Time" src="./profile-summary-card-output/github/4-productive-time.svg" width="100%" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
-        <img alt="Repos per Language" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="100%" />
-      </picture>
-    </td>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg" />
-        <img alt="Most Commit Language" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<br />
+<br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution City" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img alt="3D Contribution City" src="./profile-3d-contrib/profile-green-animate.svg" width="78%" />
 </picture>
 
 </div>
